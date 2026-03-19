@@ -8,4 +8,3 @@ public class B1000 {
         System.out.println(a + b);
     }
 }
-

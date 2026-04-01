@@ -16,6 +16,5 @@ public class B11021 {
 
             sb.append("Case #").append(i+1).append(": ").append(a+b).append("\n");
         }
-        System.out.print(sb);
-    }
+        System.out.print(sb); 
 }

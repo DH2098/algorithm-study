@@ -15,5 +15,5 @@ public class B1085 {
         int m = ((h - y) < y)? (h - y) : y;
 
         System.out.println((n < m)? n : m);
-    }
+    } 
 }

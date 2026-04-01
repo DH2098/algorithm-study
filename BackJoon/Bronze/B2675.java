@@ -23,4 +23,4 @@ public class B2675 {
         }
         System.out.print(sb);
     }
-}
+} 
